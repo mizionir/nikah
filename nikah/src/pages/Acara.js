@@ -71,15 +71,11 @@ function Acara() {
   return (
     <>
         <Box className="container">
-            <Title>Akad Nikah</Title>
-            <SubTitle>Sabtu, 20 April 2024</SubTitle>
-            <SubTitle>Pukul: 08.00 - 09.00 WIB</SubTitle>
+            <Title>Ngunduh Mantu</Title>
+            <SubTitle>Minggu, 12 Mei 2024</SubTitle>
+            <SubTitle>Pukul: 09.00 - 13.00 WIB</SubTitle>
 
             <Image src={AkadImg} alt="photos" />
-
-            <Title>Resepsi</Title>
-            <SubTitle>Sabtu, 20 April 2024</SubTitle>
-            <SubTitle>Pukul: 11.00 - 13.00 WIB</SubTitle>
 
         </Box>
         <MapWrapper>
