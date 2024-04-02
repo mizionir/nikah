@@ -33,7 +33,7 @@ function Footer() {
           <Image src={FooterImg} alt="" />
           <SubTitle>Join our Wedding</SubTitle>
           <Title>Alief & Citra</Title>
-          <SubTitle>20 . 04 . 2024</SubTitle>
+          <SubTitle>12 . 05 . 2024</SubTitle>
         </Box>
     </>
   );
