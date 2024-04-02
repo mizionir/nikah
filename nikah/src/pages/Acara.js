@@ -80,10 +80,10 @@ function Acara() {
         </Box>
         <MapWrapper>
             <MapText className="mb-4">Bertempat di:</MapText>
-            <MapTitle>Clubhouse JGC Jakarta Garden City</MapTitle>
-            <MapText style={{ fontWeight: '300' }}>Jl. Cassia Utama, Cakung Timur, Kec. Cakung, Jakarta Timur, DKI Jakarta 13910</MapText>
+            <MapTitle>Rumah Mempelai Pria</MapTitle>
+            <MapText style={{ fontWeight: '300' }}>Jl. Harapan Jaya I No. 11 Rt. 30 Rw. 08 Sei Selayur Palembang</MapText>
 
-            <a href="https://maps.app.goo.gl/V7FLDzRk4BA3omkt8" target="_blank" rel="noreferrer" style={{ textDecoration: 'none' }}>
+            <a href="https://maps.app.goo.gl/6RqPrZKuBfPthnyt9" target="_blank" rel="noreferrer" style={{ textDecoration: 'none' }}>
                 <Button>
                     <img src={PinImg} style={{ marginRight: '8px', width: '12px' }} alt="" />
                     Google Maps
