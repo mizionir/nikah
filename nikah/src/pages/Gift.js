@@ -69,11 +69,11 @@ function Gift() {
             <SubTitle>Doa restu anda merupakan karunia yang sangat berarti bagi kami dan jika memberi adalah ungkapan tanda terimakasih anda, anda dapat memberi kado secara cashless.</SubTitle>
 
             <Image src={GiftSeparatorImg} alt="" style={{ width: '125px' }} />
-            <Text>BANK MANDIRI</Text>
-            <Text>1560 0128 217 26</Text>
-            <Text>CITRA YULIANITA</Text>
+            <Text>BANK BNI</Text>
+            <Text>4021999440</Text>
+            <Text>MUHAMMAD ALIEF FAZA NUJJIYA</Text>
 
-            <Button onClick={() => copyToClipboard('1560012821726')}>
+            <Button onClick={() => copyToClipboard('4021999440')}>
                 <img src={CopyImg} style={{ marginRight: '8px', width: '16px' }} alt="" />
                 Salin Nomor
             </Button>
