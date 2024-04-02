@@ -39,7 +39,7 @@ function Header() {
       <SubHeading>The Wedding of</SubHeading>
       <Heading style={{ margin: '12px 0' }}>Alief & Citra</Heading>
       <Image src={CoverImg} alt="photos" />
-      <Heading style={{ fontStyle: 'italic', fontWeight: '400' }}>20 . 04 . 2024</Heading>
+      <Heading style={{ fontStyle: 'italic', fontWeight: '400' }}>12 . 05 . 2024</Heading>
     </Box>
   );
   }
