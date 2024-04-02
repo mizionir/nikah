@@ -26,7 +26,7 @@ const Image = styled.img`
 
 
 function Countdown() {
-  const targetDate = "2024-04-20T08:00:00";
+  const targetDate = "2024-05-12T09:00:00";
   const calculateTimeLeft = () => {
     const difference = +new Date(targetDate) - +new Date();
     let timeLeft = {};
